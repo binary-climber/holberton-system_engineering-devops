@@ -1,0 +1,1 @@
+This project makes pwd executable from bash.
